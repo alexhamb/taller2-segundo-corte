@@ -10,8 +10,8 @@
     <string name="listar">To list</string>
     <string name="guardar">Saved</string>
     <string name="limpiar">clean</string>
-    <string name="reportes">Reportes</string>
-    <string name="capacidad">Capacidad</string>
+    <string name="reportes">Reports</string>
+    <string name="capacidad">Capacity</string>
     <array name="Opciones">
         <item>@string/crear</item>
         <item>@string/listar</item>
