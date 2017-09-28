@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cell phones</string>
+    <string name="marca">Brand</string>
+    <string name="sistemaoperativo">OS</string>
+    <string name="color">Color</string>
+    <string name="precio">Price</string>
+    <string name="titulo">Title</string>
+    <string name="mensaje_exitoso">Successful message</string>
+    <string name="crear">Create</string>
+    <string name="listar">To list</string>
+    <string name="guardar">Saved</string>
+    <string name="limpiar">clean</string>
+    <string name="reportes">Reportes</string>
+    <string name="capacidad">Capacidad</string>
+    <array name="Opciones">
+        <item>@string/crear</item>
+        <item>@string/listar</item>
+        <item>@string/reportes</item>
+    </array>
+
+
+</resources>
